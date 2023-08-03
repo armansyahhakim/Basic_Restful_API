@@ -23,7 +23,7 @@ This repository contains a simple implementation of a RESTful API using modern w
 3. npm install
 4. MONGODB_URI=mongodb://127.0.0.1:27017/user-crud-arman
 5. npm start
-6. 
+
 The API will be accessible at http://localhost:3000.
 
 API Endpoints
